@@ -3,7 +3,7 @@
 ## 👤 Student Details
 - **Name :** Cenoy Francis Tomy
 - **Registration Number :** 25BCE10358
-- **Branch :** B.Tech CSE (Core)
+- **Branch :** B.Tech CSE (CORE)
 - **Year :** 1st Year  
 
 ---
@@ -22,8 +22,8 @@ As a **Student Digital Ambassador**, I spearheaded this project to advocate for 
 | `Task-3/` | Technical problem solving & community engagement |
 | `Task-4/` | Corporate communication frameworks |
 | `Task-5/` | Phishing case study & mitigation strategies |
-| `Report` | Comprehensive project documentation |
 | `Readme` | A readme file that explains the project |
+| `Report` | Comprehensive project documentation |
 
 ---
 
@@ -34,13 +34,13 @@ Designed a high-impact infographic using **Canva** to synthesize core digital li
 
 ### Task 2 – Digital Portfolio  
 Established a professional presence across industry-standard platforms to showcase technical growth and project milestones:
-* **GitHub :** [Cenoy](https://github.com/Cenoy-AI-ML)
+* **GitHub :** [Cenot-25BCE10358](https://github.com/Cenoy-AI-ML)
 * **LinkedIn :** [Cenoy Francis Tomy](https://www.linkedin.com/in/cenoyftomy/)
 * **Kaggle :** [Cenoy Francis Tomy](https://www.kaggle.com/cenoyfrancistomy)
 
 ### Task 3 – Platforms  
 * **Technical :** Resolved algorithmic challenges on **HackerRank** to strengthen programming logic.
-* **Engagement :** Developed a [Digital Literacy Assessment Quiz](https://forms.gle/Nz8Jg98oQ3PP8SSP6) to evaluate community awareness.
+* **Engagement :** Developed a [Digital Literacy Assessment Quiz](https://forms.gle/Nz8Jg98oQ3PP8SSP6) evaluate community awareness.
 
 ### Task 4 – Email Etiquette  
 Drafted specialized professional correspondence templates and created a **Social Media Integrity Checklist** to ensure a positive and professional digital footprint.
